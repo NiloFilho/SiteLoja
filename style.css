@@ -70,8 +70,8 @@ h2{
 main img{    
     width: 30%; 
     border-radius: 50%;
-    padding: 10px 35%;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(245, 245, 75));
+    padding: 5px 35%;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(247, 247, 142));
 }
 main p {
     margin: 10px 0px;
