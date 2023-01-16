@@ -6,19 +6,19 @@
     margin: auto;
 }
 body{
-    background-color: rgba(0, 128, 0, 0.205);
+    background-image: url(imagens/pattern003.png);
 }
 header{
     display: flex;
     justify-content: center;
     font-family: 'Audiowide', cursive;
     text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.575);
-    font-size: 1.9em; 
+    font-size: 1.5em; 
     padding: 8px;
-    background-image: linear-gradient(rgba(253, 253, 21, 0.63), rgba(1, 179, 1, 0.63));
+    background-image: url(imagens/wallpaper001.jpg);
 }
 header img{    
-    width: 100px;
+    width: 85px;
     border-radius: 50%;    
 }
 nav{
